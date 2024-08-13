@@ -1,0 +1,166 @@
+                                   
+
+
+
+ 1. Diseña un algoritmo que pida al usuario ingresar su altura y almacene la 
+entrada del usuario en una variable llamada `altura`.
+
+ Algoritmo guardar_altura
+
+1. solicitar y guardar altura
+
+pseudocodigo
+
+start
+// programa que solicita al usuario su altura 
+declare float altura 
+display " ingrese altura: " 
+input altura 
+End  
+
+
+
+
+2. Diseña un algoritmo que pida al usuario ingresar su color favorito y 
+almacene la entrada del usuario en una variable llamada `color`.
+
+algoritmo almacenar_color 
+1. solicitar y almacenar color favorito 
+
+pseudocodigo 
+start
+// programa que solicita al usuario ingresar el color favorito 
+declare string color 
+display "ingrese su color favorito: " 
+input color 
+end
+
+
+
+
+3. Escribe declaraciones de asignación que realicen las siguientes 
+operaciones con las variables `a`, `b`, y `c`:
+a. Suma 2 a `a` y almacena el resultado en `b`.
+b. Multiplica `b` por 4 y almacena el resultado en `a`.
+c. Divide `a` entre 3.14 y almacena el resultado en `b`.
+d. Resta 8 de `b` y almacena el resultado en `a`.
+
+
+set b = a + 2 
+set a = b + 4 
+set b = a / 3.14 
+set a= b 
+             
+
+4) 4. Asume que las variables `resultado`, `w`, `x`, `y`, y `z` son todas enteras, y que `w 
+= 5`, `x = 4`, `y = 8`, y `z = 2`. ¿Qué valor se almacenará en `resultado` en cada 
+una de las siguientes declaraciones?
+a. Establece `resultado = x + y`.
+b. Establece `resultado = z * 2`.
+c. Establece `resultado = y / x`.
+d. Establece `resultado = y - z`.
+
+
+
+// asignar los valores a las variables 
+w = 5
+X = 4
+y = 8
+z = 2
+
+
+declare integer resultados 
+set resultados = x + y // 12 
+set resultados = z * 2 // 4 
+set resultados = y / x // 2 
+set resultados = y - z // 6
+
+
+5. Escribe una declaración en pseudocódigo que declare la variable `costo` para 
+que pueda contener números reales.
+
+Declare float costo
+
+6. Escribe una declaración en pseudocódigo que declare la variable `total` para que 
+pueda contener enteros. Inicializa la variable con el valor 0.
+
+declare integer total = 0
+
+7. Escribe una declaración en pseudocódigo que asigne el valor 27 a la 
+variable `contador`.
+
+set contador = 27 
+
+8. Escribe una declaración en pseudocódigo que asigne la suma de 10 y 
+14 a la variable `total`.
+
+set total = 10 +14 
+
+9. Escribe una declaración en pseudocódigo que reste la variable 
+`pagoInicial` de la variable `total` y asigne el resultado a la variable 
+`saldo`.
+
+set saldo = total - pagoinicial 
+
+
+10. Escribe una declaración en pseudocódigo que multiplique la variable 
+`subtotal` por 0.15 y asigne el resultado a la variable `totalCuota`
+
+set totalcuota  = subtotal * 0.15 
+
+
+
+
+calcular el área de un rectángulo 
+
+// declaración de variables 
+
+declare float base 
+declare float altura 
+declare float are 
+
+// entrada 
+input base 
+input altura
+
+// operaciones 
+set área = base * altura 
+
+// salida 
+ display área 
+
+# taller_2
+repositorio de prueba para el taller 2 del curso de fundamentos de programacion 202420 estudiantes :
+Luisa Fernanda Argumedo Polo (luisaargumedo99, luisaargumedop@upb.edu.co)
+Luis Miguel Gomez Martinez (luismiguelgomez38, luism.gomezm@upb.edu.co)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          
